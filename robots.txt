@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://marketingwishes2014.traackr.com/sitemap.xml
